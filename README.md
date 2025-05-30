@@ -53,6 +53,7 @@ This repository documents my **#100DaysOfCode** challenge, following a structure
 | 14  | OOP (Part 2)           | Inheritance, Polymorphism             | [Day 14](/Day_14.py)    |  
 | 15  | **Mini-Project**       | Employee Manager CLI App              | [Day 15](/Day_15.py)    |  
 | 16  | Introduction to Numpy  | Numpy arrays, basic operations        | [Day_16](/Day_16.npy)   |
+| 17  | Numpy Array operations | array manipulation,matrices,equations | [Day_17](/Day_17.npy)   |
 
 
 
