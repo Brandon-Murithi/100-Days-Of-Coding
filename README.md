@@ -37,9 +37,21 @@ This repository documents my **#100DaysOfCode** challenge, following a structure
 ## 📊 **Progress Tracker**  
 | Day | Topic                  | Key Learnings                         | Code Link               |  
 |-----|------------------------|---------------------------------------|-------------------------|  
-| 1   | Python Basics          | Variables, data types                 | [Day 01](/Day_01.py)       |  
-| 2   | String Manipulation    | Formatting, methods                   | [Day 02](/Day_02.py)       |  
-| 3   |  List Operations       | Create, access, modify lists          | [Day 03](/Day_03.py)       |  
+| 1   | Python Basics          | Variables, data types                 | [Day 01](/Day_01.py)    |  
+| 2   | String Manipulation    | Formatting, methods                   | [Day 02](/Day_02.py)    |  
+| 3   |  List Operations       | Create, access, modify lists          | [Day 03](/Day_03.ipynb) |  
+| 4   | Dictionaries & Sets    | Key-Value Pairs, Set Operations       | [Day 04](/Day_04.py)    |  
+| 5   | Control Flow (If/Else) | Conditional Logic                     | [Day 05](/Day_05.py)    |  
+| 6   | Loops                  | `for`, `while`, Iterations            | [Day 06](/Day_06.ipynb) |  
+| 7   | Functions              | Definition, Parameters, Return Values | [Day 07](/Day_07.ipynb) |  
+| 8   | Error Handling         | `try/except`, Custom Exceptions       | [Day 08](/Day_08.ipynb) |  
+| 9   | File Operations        | Read/Write Files                      | [Day 09](/Day_09.py)    |  
+| 10  | Modules & Libraries    | `import`, Standard Libraries          | [Day 10](/Day_10.py)    |  
+| 11  | List Comprehensions    | One-Line Transformations              | [Day 11](/Day_11.py)    |  
+| 12  | Lambda Functions       | Anonymous Functions                   | [Day 12](/Day_12.py)    |  
+| 13  | OOP (Part 1)           | Classes, Objects, Methods             | [Day 13](/Day_13.py)    |  
+| 14  | OOP (Part 2)           | Inheritance, Polymorphism             | [Day 14](/Day_14.py)    |  
+| 15  | **Mini-Project**       | Employee Manager CLI App              | [Day 15](/Day_15.py)    |  
  
 
 
