@@ -1,0 +1,19 @@
+import numpy as np
+
+arr = np.array([1,2,3,4,5])
+print("NumPy Array:",arr)
+
+#Array Operations
+arr_plus_10 = arr + 10
+print("array + 10:", arr_plus_10)
+
+arr_times_3 = arr * 3
+print("Array times 3 is:", arr_times_3)
+
+arr2 = np.array([6,7,8,9,10])
+sum_arr = arr + arr2
+print("sum of arrays is: ", sum_arr)
+
+print(np.sum(arr))
+print(np.mean(arr))
+print(np.max(arr2))
