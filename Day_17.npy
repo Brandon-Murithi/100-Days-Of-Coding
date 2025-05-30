@@ -1,0 +1,28 @@
+# a 2d array
+import numpy as np
+matrix = np.array([[1,2],[3,4]])
+print(matrix)
+
+#transpose 
+print(matrix.T)
+#reshape
+print(matrix.reshape(4,1))# 4 rows and 1 column
+
+#slicing
+print(matrix[0])#first row
+print(matrix[:,0])#first column
+
+arr=np.array([1,2,3,4])
+print(np.sqrt(arr))
+print(np.exp(arr))
+
+#SOLVING A SYSTEM OF EQUATIIONS
+#2x +3y = 8
+#3x + 4y = 11
+
+A = np.array([[2,3],[3,4]])#A is co-efficient matrix
+B = np.array([8,11])
+
+#solve for x and y
+solution = np.linalg.solve(A, B)
+print("solution for x and y is:", solution)
